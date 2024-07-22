@@ -1,0 +1,12 @@
+#info-carousel .show {
+    transition: opacity 1s ease-in;
+    opacity: 1;
+}
+#info-carousel .not-show {
+    opacity: 0;
+}
+
+.navigation-bar .dot.active {
+    height: 5px;
+    background: #d4c009;
+}
